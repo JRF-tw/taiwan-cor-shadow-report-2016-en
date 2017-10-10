@@ -1,0 +1,11 @@
+## COR Point 51 Right to Housing (ICESCR Article 11)
+
+<ol start="230">
+  <li><p>Please refer to Paragraphs 1-2 of Point 50 of the Concluding Observations and Recommendations. Regarding the definition of homeless persons, the government should revise Article 17 of the Public Assistance Act to add standards for the determination of homeless persons and remove language about homeless persons which is outdated, discriminatory and infringes on the human rights of homeless persons. The government should refer to the experience of other regions or countries, such as the European Union, the United States, Japan and South Korea, and develop definitions of homeless people from the standpoint of lacking permanent homes or living in locations unsuitable for human residence.</p></li>
+
+  <li><p>Please refer to Paragraphs 3-6 of Point 50 of the Concluding Observations and Recommendations. The central government should take responsibility for integrating national plans for homeless persons and break through the welfare localism based on household registration. In addition, the government should adopt policy thinking that places priority on the disadvantaged and construct medium-to-long-term resettlement service measures that are in accord with the needs of homeless persons and fix a timetable, arrange fiscal resources and evaluate the effectiveness of implementation. The government should also remove the obstructions blocking access by homeless people to the housing resources promised in the Housing Act.</p></li>
+
+  <li><p>Please refer to Paragraph 7 of Point 50 of the Concluding Observations and Recommendations. We urge the government to cease dispersals of homeless street people and instead take action to provide homeless street people with housing and public services that actually are in keeping with their real life needs.</p></li>
+
+  <li><p>Finally, in reference to Paragraph 8 of Point 50 of the Concluding Observations and Recommendations, the MOHW, as the responsible central government agency, should substantively respond to issue and take note of the needs of homeless people and provide necessary assistance to help city and county government overcome difficulties in furnishing services to the homeless.</p></li>
+</ol>
