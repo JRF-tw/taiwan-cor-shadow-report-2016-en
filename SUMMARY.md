@@ -1,6 +1,6 @@
 # Shadow Report 2016 on Government’s Response to the Concluding Observations and Recommendations
 
-* [EXECUTIVE SUMMARY​IX](executive-summary.md)
+* [EXECUTIVE SUMMARY​](executive-summary.md)
 * [COR POINTS 8-9 NATIONAL HUMAN RIGHTS COMMISSION](cor-08~09.md)
 * [COR POINTS 10-11 UNITED NATIONS CORE HUMAN RIGHTS COVENANTS AND CONVENTIONS](cor-10~11.md)
 * [COR POINTS 12-13 THE IMPLEMENTATION ACT RELATED TO THE INTERNATIONAL COVENANTS](cor-12~13.md)

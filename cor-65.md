@@ -13,7 +13,7 @@
 ### Regarding partial revision of Article 388 of the Code of Criminal Procedure
 
 <ol start="277">
-  <li><p>In its 1,358th meeting on May 28, 2010, Taiwan’s Constitutional Court rejected a petition to evaluate the constitutionality of Article 388’s exemption to the principle of mandatory defence.</p></li>
+  <li><p>In its 1,358<sup>th</sup> meeting on May 28, 2010, Taiwan’s Constitutional Court rejected a petition to evaluate the constitutionality of Article 388’s exemption to the principle of mandatory defence.</p></li>
 
   <li><p>In 2012, the Executive Yuan submitted a package of draft revisions to the Code of Criminal Procedure. The package included proposed revisions to Article 388 that intended to bring the trial of the third instance into the scope of mandatory defence. The stated reason for the revision was “(10), revise the provision regarding the applicability of mandatory defence in the trial of the third instance…… Article 14, Paragraph 3 Clause (d) of the ICCPR states: ‘(d) To be tried in his presence, and to defend himself in person or through legal assistance of his own choosing; to be informed, if he does not have legal assistance, of this right; and to have legal assistance assigned to him, in any case where the interests of justice so require, and without payment by him in any such case if he does not have sufficient means to pay for it.’ Therefore, the application of the provision for mandatory defence in Article 31 Paragraph 1 of the Code of Criminal Procedure should not distinguish between the levels of the trial: Consequently, verdicts may not be rendered for cases subject to mandatory defence under Article 31, Paragraph 1 unless the defence attorney submits an appellate brief or a statement of defence.”</p></li>
 

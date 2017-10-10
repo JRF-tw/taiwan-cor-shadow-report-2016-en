@@ -9,4 +9,3 @@
 
   <li><p>Therefore, we recommend that, after the completion of the review of the Second State Report on the two covenants, the Taiwan government must respond to the concluding observations and recommendations with a four-year “national human rights action plan” formulated and implemented by the Executive Yuan to resolve problems step by step and implement the stipulations of the recommendations made by the review committee and the two covenants.</p></li>
 </ol>
-

@@ -13,4 +13,3 @@
 
   <li><p>Revisions of laws or regulations are still insufficient to meet the demands of the ICESCR. At present, the Legislative Yuan may approve draft revisions to the Urban Renewal Act which have at least three aspects which violate the two covenants: (a) In the draft revisions, it is the government to decide the scope of urban renewal projects, aiming to justify the public interest and necessity of the provision which led to compulsory demolitions, but there is no correlation between the subject delineating the scope of urban renewal projects and the public interest or necessity of any particularly urban renewal project. This provision will continue the existing act’s contravention of Point 13 of General Comment 7 for the ICESCR;(b) See Paragraph 175; and, (c) See Paragraph 176.</p></li>
 </ol>
-
