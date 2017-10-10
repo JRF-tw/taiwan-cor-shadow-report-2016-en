@@ -29,5 +29,5 @@
 -----
 
 <ol start="149">
-   <li>The Ministry of Justice's English translation of the Artificial Reproduction Act can be found at <a href="http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=L0070024" target="_blank">http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=L0070024</a>, while the legally valid Chinese version is at <a href="http://law.moj.gov.tw/Law/LawSearchResult.aspx?p=A&t=A1A2E1F1&k1=%E4%BA%BA%E5%B7%A5%E7%94%9F%E6%AE%96" target="_blank">http://law.moj.gov.tw/Law/LawSearchResult.aspx?p=A&amp;t=A1A2E1F1&amp;k1=%E4%BA%BA%E5%B7%A5%E7%94%9F%E6%AE%96</a>.</li>
+  <li>The Ministry of Justice's English translation of the Artificial Reproduction Act can be found at <a href="http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=L0070024" target="_blank">http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=L0070024</a>, while the legally valid Chinese version is at <a href="http://law.moj.gov.tw/Law/LawSearchResult.aspx?p=A&t=A1A2E1F1&k1=%E4%BA%BA%E5%B7%A5%E7%94%9F%E6%AE%96" target="_blank">http://law.moj.gov.tw/Law/LawSearchResult.aspx?p=A&amp;t=A1A2E1F1&amp;k1=%E4%BA%BA%E5%B7%A5%E7%94%9F%E6%AE%96</a>.</li>
 </ol>
